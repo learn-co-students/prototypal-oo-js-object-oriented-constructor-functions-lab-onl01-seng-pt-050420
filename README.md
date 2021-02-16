@@ -9,7 +9,7 @@
 Scuber needs you to develop a fast way to create `Scooter`s, `Driver`s, and `PickupLocation`s as new business keeps rolling in.
 
 ## Instructions
-
+ 
 Create a constructor function for each of the following:
 + Scooter with `year`, `color`, and `model` properties
 + Driver with `name`, `age`, and `experience` properties
